@@ -3,6 +3,7 @@ body{
    padding: 0;
    background: url(Picture_3.jpg) no-repeat;
    background-size: cover;
+   max-width: 600px
 }
 .box{
     width: 400px;
